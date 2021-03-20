@@ -1,0 +1,1 @@
+[MARCH 20TH - 2021] - First start of this project, I am not focusing on the coding because I know that I will get stuck on something and then spend all of my time on that and then get more and more disctracted on that then eventually get no work done. I am focusing on doing research about the JS speech recognition and post processing.
