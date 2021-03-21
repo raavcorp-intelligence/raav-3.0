@@ -23,8 +23,7 @@ The javascript will then ping a webpage that is a PHP page that is listening for
 
 Once the PHP page recives the POST then it will start a python script so that it can decipher.
 
-
-(
+```
     Documentation for annaying, we will need a wake word (RAAV) and then we can use the splat feature:
     // annyang will capture anything after a splat (*) and pass it to the function.
     // e.g. saying "Show me Batman and Robin" is the same as calling showFlickr('Batman and Robin');
@@ -36,4 +35,3 @@ Once the PHP page recives the POST then it will start a python script so that it
     'say hello (to my little) friend': greeting
 
     This might be helpful for some variation in the way that I ask for a source.
-)
